@@ -3,6 +3,7 @@
 <head>
 <title>Tip-Calculator</title>
 <link rel="stylesheet" type="text/css" href="style.css">
+<script src="javascript.js"></script>
 
 
 </head>
@@ -62,7 +63,16 @@
 
             <div class="calculate">
 
-                <button class="calculate-button">CALCULATE!</button>
+                <button class="calculate-button" onclick="calculateTip()">CALCULATE!</button>
+
+            </div>
+
+            <div class="tip-amount hide">
+
+                <div>TIP AMOUNT</div>
+                <span>$</span>
+                <span id="tip"></span>
+                <div>each</div>
 
             </div>
 
