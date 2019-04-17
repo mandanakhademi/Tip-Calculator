@@ -4,6 +4,4 @@
 ## Demo website
 
 Demo website:
- * [Github Pages] (https://mandanakhademi.github.io/Tip-Calculator/)
-
-
+ * [Github Pages](https://mandanakhademi.github.io/Tip-Calculator/)
